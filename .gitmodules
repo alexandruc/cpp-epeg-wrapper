@@ -1,0 +1,3 @@
+[submodule "epeg"]
+	path = epeg
+	url = https://github.com/mattes/epeg.git
